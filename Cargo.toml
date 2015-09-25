@@ -1,0 +1,8 @@
+[package]
+name = "prude"
+version = "0.1.0"
+authors = ["KokaKiwi <kokakiwi@kokakiwi.net>"]
+license = "MIT"
+
+[dependencies]
+aho-corasick = "0.3.2"
